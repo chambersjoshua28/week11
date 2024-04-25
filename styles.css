@@ -1,0 +1,26 @@
+.cell {
+    width: 100px;
+    height: 100px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+  }
+  
+  .grid {
+    margin-top: 20px;
+  }
+  
+  .alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
